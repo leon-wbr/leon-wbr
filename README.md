@@ -1,16 +1,14 @@
-## Hi there 👋
+💻 **Full-Stack Web Developer** | 🌍 + 🎥
 
-<!--
-**leon-wbr/leon-wbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **modern, scalable web applications** with a focus on **frontend experience** and **solid backend architecture**.  
 
-Here are some ideas to get you started:
+Currently based in Georgia, working remotely with clients across the globe.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Frontend**: React, Next.js, Vue (+ Pinia), Zustand, TailwindCSS, SCSS
+- **Backend**: Node.js, Express, PHP (TYPO3, Laravel), PayloadCMS, Nest.js, Strapi, Ruby on Rails
+- **Databases**: MySQL, MariaDB, Postgres, SQLite, ORMs: Active Recod, Drizzle, Prisma, Doctrine
+- **APIs & Auth**: REST, GraphQL, OAuth2, JWT, 3rd-party integrations
+- **DevOps**: K8S, Docker, DDEV, Serverless (Vercel, Netlify, AWS), VPS
+- **Testing & Quality**: Jest, ESLint, Prettier
