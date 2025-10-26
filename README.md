@@ -1,8 +1,8 @@
-💻 **Full-Stack Web Developer** | 🌍 + 🎥
+## 💻 Full-Stack Web Developer | 🌍 + 🎥
 
-I build **modern, scalable web applications**. Currently based in Georgia, working remotely with clients across the globe.  
+I build **modern, scalable web applications**. Currently based in Georgia, working remotely with clients and on open source projects across the globe.  
 
-## Tech Stack
+### Tech Stack
 
 - **Frontend**: React, Next.js, Vue, Svelte, Zustand, TailwindCSS, SCSS
 - **Backend**: Node.js, Express, PHP (TYPO3, Laravel), PayloadCMS, NestJS, Strapi, Ruby on Rails
@@ -11,7 +11,7 @@ I build **modern, scalable web applications**. Currently based in Georgia, worki
 - **DevOps**: K8S, Docker, DDEV, Serverless (Vercel, Netlify, AWS), VPS
 - **Testing & Quality**: Jest, ESLint, Prettier
 
-## Projects
+### Projects
 
 **[Inertia Adapter for TYPO3](https://github.com/leon-wbr/inertia-typo3)**
 
