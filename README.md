@@ -17,6 +17,6 @@ I build **modern, scalable web applications**. Currently based in Georgia, worki
 
 An experimental integration of **InertiaJS with TYPO3**, enabling modern SPA-like experiences inside an enterprise CMS.
 
-**[Hitchmap]([https://hitchmap.com/](https://hitchwiki.github.io/hitchmap-nostr/))**
+**[Hitchmap](https://hitchwiki.github.io/hitchmap-nostr/)**
 
-Actively contributed to **Hitchmap**, a community project for hitchhiking routes and statistics. Currently building a [decentralized rewrite](https://github.com/Hitchwiki/hitchmap-nostr).
+Actively contributed to **Hitchmap**, a community project for hitchhiking routes and statistics. Currently building a [decentralized rewrite using Nostr](https://github.com/Hitchwiki/hitchmap-nostr).
