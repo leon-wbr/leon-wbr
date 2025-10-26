@@ -4,10 +4,10 @@ I build **modern, scalable web applications**. Currently based in Georgia, worki
 
 ## Tech Stack
 
-- **Frontend**: React, Next.js, Vue, Zustand, TailwindCSS, SCSS
-- **Backend**: Node.js, Express, PHP (TYPO3, Laravel), PayloadCMS, Nest.js, Strapi, Ruby on Rails
+- **Frontend**: React, Next.js, Vue, Svelte, Zustand, TailwindCSS, SCSS
+- **Backend**: Node.js, Express, PHP (TYPO3, Laravel), PayloadCMS, NestJS, Strapi, Ruby on Rails
 - **Databases**: MySQL, MariaDB, Postgres, SQLite, ORMs: Active Recod, Drizzle, Prisma, Doctrine
-- **APIs & Auth**: REST, GraphQL, OAuth2, JWT, 3rd-party integrations
+- **APIs, Auth, Protocols**: REST, GraphQL, OAuth2, JWT, 3rd-party integrations, Nostr
 - **DevOps**: K8S, Docker, DDEV, Serverless (Vercel, Netlify, AWS), VPS
 - **Testing & Quality**: Jest, ESLint, Prettier
 
@@ -17,8 +17,6 @@ I build **modern, scalable web applications**. Currently based in Georgia, worki
 
 An experimental integration of **InertiaJS with TYPO3**, enabling modern SPA-like experiences inside an enterprise CMS.
 
-## Contributions
+**[Hitchmap]([https://hitchmap.com/](https://hitchwiki.github.io/hitchmap-nostr/))**
 
-**[Hitchmap](https://hitchmap.com/)**
-
-Helped with development contributions for **Hitchmap**, a community project for hitchhiking routes and statistics. Maintained a [temporary fork](https://github.com/hitchmap/hitchmap-alt).
+Actively contributed to **Hitchmap**, a community project for hitchhiking routes and statistics. Currently building a [decentralized rewrite](https://github.com/Hitchwiki/hitchmap-nostr).
