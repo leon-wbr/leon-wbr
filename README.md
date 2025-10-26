@@ -1,4 +1,4 @@
-## 💻 Full-Stack Web Developer | 🌍 + 🎥
+## 💻 Full-Stack Engineer | 🌍 + 🎥
 
 I build **modern, scalable web applications**. Currently based in Georgia, working remotely with clients and on open source projects across the globe.  
 
