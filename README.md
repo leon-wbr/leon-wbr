@@ -1,6 +1,6 @@
 ## 💻 Full-Stack Engineer | 🌍 + 🎥
 
-I build **modern, scalable web applications** with a strong focus on resilient and decentralized systems. Currently based in Tbilisi, Georgia.
+I build **modern, scalable web applications** with a strong focus on resilient and decentralized systems. Currently based in Tbilisi, Georgia. Always open for collaboration or just for a chat.
 
 ### Tech Stack
 
@@ -17,7 +17,7 @@ I build **modern, scalable web applications** with a strong focus on resilient a
 
 A decentralized rewrite of Hitchmap using the Nostr protocol. Replaces centralized APIs with Nostr events to map global hitchhiking routes, share route data, and build a community-owned travel knowledge graph.
 
-**[Lightfoot](https://github.com/leon-wbr/lightfoot)**
+**[Lightfoot](https://github.com/Trustroots/lightfoot)**
 
 A postal delivery community on Trustroots + Nostr, where handwritten letters travel physically between people. Built around Lightfoot postal boxes worldwide and delivered by travelers using walking, cycling, hitchhiking, sailing, and other low-carbon methods.
 
