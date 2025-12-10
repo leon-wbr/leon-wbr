@@ -21,6 +21,10 @@ A decentralized rewrite of Hitchmap using the Nostr protocol. Replaces centraliz
 
 A postal delivery community on Trustroots + Nostr, where handwritten letters travel physically between people. Built around Lightfoot postal boxes worldwide and delivered by travelers using walking, cycling, hitchhiking, sailing, and other low-carbon methods.
 
+**[Better Auth](https://github.com/leon-wbr/better-auth-nostr) <sup>WIP</sup>**
+
+A BetterAuth plugin to provide a quick and easy traditional flow sign in for Nostr using NIP-98 and (optionally) NIP-07.
+
 **[Dromedary](https://github.com/leon-wbr/dromedary) <sup>open for funding</sup>**
 
 A modular, self-hostable background daemon for apps that need to connect to Nostr – handling email, push notifications, webhooks, automation, and two-way data flows. Designed to make Nostr integration effortless for JS/TS developers.
